@@ -1,0 +1,111 @@
+style{
+}
+.fst {
+    text-align: center;
+    margin: 5%;
+}
+
+.frsheading{
+    padding: 1%;
+}
+.scdheading{
+    padding:1%;
+}
+#lgn{
+    background-color: white;
+    border-radius: 5px;
+    width: 90px;
+    ;
+}
+#nuser{
+    background-color: white;
+    border-radius: 5px;
+    width: 90px;
+}
+/* second sheet style starts from here......
+*/
+.scdpage{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.email{
+    margin-right: 10px;
+}
+.mail{
+    margin-left: 28px
+}
+.psw{
+    margin-right:10px
+
+}
+#email{
+    margin-right:10px
+}
+#psw{
+    margin-left: 0px
+}
+#btnlogin{
+    width: 100px;
+    background-color: cyan;
+    border-radius: 5px;
+    margin-left: 60px;
+    margin-top: 10px
+}
+
+/* Third page style sheet start from here......
+*/
+.rform{
+    text-align: center;
+    margin-top:  5%;
+}
+#fname{
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+ 
+    
+}
+#rmail{
+    margin-left:20px;
+    margin-bottom: 30px;
+    margin-right: -10px;
+ 
+}
+#rpsw{
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    
+}
+#cpsw{
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-right: 70px;
+   
+}
+#btnrgs{
+    background-color: cyan;
+    border-radius: 5px
+}
+
+/* Registration successful style sheet start from here...
+*/
+
+.rscf{
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+/*Loging successful style sheet start from here....
+*/
+.rscf{
+    margin-top: 5%;
+    align-content: center;
+}
+.lgnscf{
+    margin-top: 5%;
+    text-align: center;
+}
